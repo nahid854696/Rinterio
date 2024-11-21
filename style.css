@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 80%;    
+}
+.warper{
+    padding: 0 auto;
+    width: 70%;
+}
+.container1{
+    width: 80%;
+    margin-left: 140px;
+    margin-top: 40px;
+}
+.logo a{
+    font-size: 30px;
+    font-weight: bold;
+}
+/* .logo span  {
+    
+} */
+.img2 {
+    background-image: url(assests/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-color: white;
+    
+}
